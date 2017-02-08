@@ -3,11 +3,134 @@ class: center, middle
 
 <img src="images/escience.png" width=350>
 
-# TITLE
+# Tools and practices for open and reproducible data-driven discovery
 ## Ariel Rokem
 ### The University of Washington eScience Institute
 
-<small>Follow along at: <a href="https://arokem.github.io/talk-template">https://arokem.github.io/talk-template</small>
+<small>Follow along at: <a href="https://arokem.github.io/2017-02-10-isb">https://arokem.github.io/2017-02-10-isb</small>
+
+---
+
+<img src="images/escience.png" width=350>
+
+--
+<image src="images/DSE-and-sponsors.png" height=200px>
+
+#### $ 37.8M for 5 years: <a href="http://msdse.org/">"Moore-Sloan Data Science Environments"</a>
+
+Additional funding from:
+ - Washington Research Foundation <br>
+ - Bill & Melinda Gates Foundation <br>
+
+--
+
+### [Western BIG DATA HUB](http://westbigdatahub.org/) (NSF)
+
+---
+
+# What does Reproducible Research mean?
+
+### .blue[Ability to determine exactly how scientific results were obtained.]
+
+ - Basis of scientific method.
+
+ - Required for confidently building on past results.
+
+ - Critical for accountability in engineering analysis / decision making.
+
+--
+
+.red[
+"An article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result."
+]
+
+<a href="http://biostatistics.oxfordjournals.org/content/11/3/385.long">Buckheit and Donoho (1995) </a>
+
+---
+
+# An example: human neuroscience
+
+--
+
+### White matter: the brain's super-highways
+
+<div style="position: absolute; top: 200px; left: 20px;" >
+  <image src="./images/optic-radiation-postmortem.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+--
+
+<div style="position: absolute; top: 200px; left: 350px;" >
+  <image src="./images/nerve-fiber.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+---
+
+### Diffusion MRI
+
+<video preload="auto" width="70%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/dMRI-signal-movie.mp4"/></video>
+
+---
+
+### Tractography
+
+<video preload="auto" width="60%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/cc_tube_movie.mov"/> </video>
+
+---
+
+### Neuroimaging in Python
+
+<div style="position: absolute; left: 100px; top: 120px;">
+<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="10%"></a>
+</div>
+
+--
+
+<div style="position: absolute; left: 100px; top: 300px;">
+
+<image src="images/Google_Summer_Of_Code_2015.jpg"  height="40%">
+
+</div>
+
+---
+
+layout: true
+
+---
+
+## Models of the white matter
+
+<div style="position: absolute; left: 500px; top: 650px;" >
+  <small>Basser, Mattielo and Le Bihan (1994)</small>
+</div>
+
+--
+
+<div style="position: absolute; left: 40px; top: 180px;">
+<video width="40%" autoplay loop>
+  <source src="./videos/tensor-signal-movie.mp4">
+</video>
+</div>
+
+--
+
+<div style="position: absolute; top: 260px; left: 320px;" >
+  <image src="./images/q-form.png" style="background:none; border:none; box-shadow:none;" height="70">
+</div>
+
+--
+
+<div style="position: absolute; top: 200px; left: 630px;">
+<video width="70%" autoplay loop>
+<source src="./videos/tensor-ellipse-movie.mp4">
+</video>
+</div>
+
+--
+
+style: middle, center
+
+#### Diffusion Tensor Model
 
 ---
 
@@ -18,17 +141,51 @@ layout: true
 
 ---
 
-# Slide title
+layout: center, middle
 
---
-
-- Bullet 1
-
---
-
-- Bullet 2
+# Which model should we use?
 
 ---
+
+## Model selection with cross-validation
+
+<div style="position: absolute; left: 500px; top: 650px;" >
+  <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123272"><small>Rokem et al. (2015)</a></small>
+</div>
+
+<image src="images/rokem2015-fig6.png" height="25%">
+
+---
+
+# Neuroimaging in Python
+
+--
+
+<div style="position: absolute; left: 100px; top: 130px;">
+<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="8%"></a>
+</div>
+
+--
+
+<div style="position: absolute; top: 250px; left: 20px;" >
+  <image src="./images/dipy_example_xval.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+---
+
+### Cloud computing enables reproducibility
+
+<image src="images/AWS.png" height="25%">
+
+<image src="images/spark-logo-trademark.png" height="200px">
+
+
+---
+
+# Git/Github for science
+
+[K-fold cross-validation on 900 brains](https://github.com/arokem/dki-accuracy-reliability)
+
 
 ---
 class: center
