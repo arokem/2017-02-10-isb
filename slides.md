@@ -48,6 +48,34 @@ Additional funding from:
 
 ---
 
+# How do we achieve reproducibility in practice?
+
+--
+
+## [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
+
+--
+
+Research product ("code and data") should be:
+
+--
+
+- Findable
+
+--
+
+- Accessible
+
+--
+
+- Interoperable
+
+--
+
+- Re-usable
+
+---
+
 # An example: human neuroscience
 
 --
