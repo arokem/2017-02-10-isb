@@ -6,6 +6,7 @@ class: center, middle
 # Tools and practices for open and reproducible data-driven discovery
 ## Ariel Rokem
 ### The University of Washington eScience Institute
+### The Western Big Data Innovation Hub
 
 <small>Follow along at: <a href="https://arokem.github.io/2017-02-10-isb">https://arokem.github.io/2017-02-10-isb</small>
 
