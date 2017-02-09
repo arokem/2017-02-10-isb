@@ -251,6 +251,38 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 ---
 
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem1.png" height=500px>
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem2.png" height=500px>
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem3.png" height=500px>
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem4.png" height=500px>
+
+---
+
+### Neuroimaging in Python
+
+<a href="http://nipy.org/"><image src="images/nipy-logo.png" height="10%"></a>
+
+
+---
+
 # Neuroimaging in Python
 
 --
