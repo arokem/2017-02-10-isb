@@ -50,30 +50,6 @@ Additional funding from:
 
 # How do we achieve reproducibility in practice?
 
---
-
-## [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
-
---
-
-Research product ("code and data") should be:
-
---
-
-- Findable
-
---
-
-- Accessible
-
---
-
-- Interoperable
-
---
-
-- Re-usable
-
 ---
 
 # An example: human neuroscience
@@ -103,26 +79,6 @@ Research product ("code and data") should be:
 ### Tractography
 
 <video preload="auto" width="60%" height="auto" data-setup="{}" autoplay loop ><source src="./videos/cc_tube_movie.mov"/> </video>
-
----
-
-### Neuroimaging in Python
-
-<div style="position: absolute; left: 100px; top: 120px;">
-<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="10%"></a>
-</div>
-
---
-
-<div style="position: absolute; left: 100px; top: 300px;">
-
-<image src="images/Google_Summer_Of_Code_2015.jpg"  height="40%">
-
-</div>
-
----
-
-layout: true
 
 ---
 
@@ -185,6 +141,92 @@ layout: center, middle
 
 ---
 
+## [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
+
+--
+
+Research product ("code and data") should be:
+
+--
+
+- Findable
+
+--
+
+- Accessible
+
+--
+
+- Interoperable
+
+--
+
+- Re-usable
+
+---
+
+# Findable
+
+Have a persistent and globally unique identifier
+
+--
+
+For example a [Digital Object Identifier](https://www.doi.org/)
+
+--
+
+Journals are DOI providers for journal papers
+
+--
+
+But you can get a DOI for a research object through other means:
+
+- [Zenodo](https://zenodo.org/)
+- [Open Science Framework](http://osf.io)
+- [The Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Your library](https://researchworks.lib.washington.edu/)
+
+--
+
+Make the data appear in searches in domain-relevant data-bases.
+
+--
+
+In neuroinformatics, the relevant data-base is [NITRC](https://www.nitrc.org/)
+
+---
+
+# Accessible
+
+Once the identifier is known, data should be retrievable through a
+standardized communications protocol.
+
+--
+
+Data from the Human Connectome Project is available from AWS and accessible
+through HTTP calls against the AWS API
+
+---
+
+### Neuroimaging in Python
+
+<div style="position: absolute; left: 100px; top: 120px;">
+<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="10%"></a>
+</div>
+
+--
+
+<div style="position: absolute; left: 100px; top: 300px;">
+
+<image src="images/Google_Summer_Of_Code_2015.jpg"  height="40%">
+
+</div>
+
+---
+
+layout: true
+
+
 # Neuroimaging in Python
 
 --
@@ -201,12 +243,15 @@ layout: center, middle
 
 ---
 
+# Read more about this [here](http://www.nature.com/articles/sdata201618)
+
+---
+
 ### Cloud computing enables reproducibility
 
 <image src="images/AWS.png" height="25%">
 
 <image src="images/spark-logo-trademark.png" height="200px">
-
 
 ---
 
