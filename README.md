@@ -1,6 +1,8 @@
-### Template for talks
+### Tools and practices for reproducible data-intensive research
 
-This template is provided under the [Creative Commons CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+Talk given at http://genevariation3d.org/, Institute for Systems Biology, Seattle, WA, February 10th, 2017.
+
+This talk is provided under the [Creative Commons CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 
 ### Remark.js LICENSE
