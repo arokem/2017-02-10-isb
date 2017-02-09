@@ -26,7 +26,7 @@ Additional funding from:
 
 ### [Western BIG DATA HUB](http://westbigdatahub.org/)
 
-<div style="position: absolute; top: 550px; left: 400px;" >
+<div style="position: absolute; top: 530px; left: 350px;" >
 <image src="images/NSF-logo.png">
 </div>
 
