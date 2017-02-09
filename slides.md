@@ -124,8 +124,35 @@ layout: true
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
 ---
+class: theBlackBackground
 
-layout: center, middle
+# The era of brain observatories
+
+--
+
+<img src="images/radio-astronomy-survey.png" width=600>
+
+---
+
+## Brain observatories:
+
+- Allen Institute for Brain Science
+
+--
+
+- UK Biobank
+
+--
+
+### The Human Connectome Project
+
+- More than 1,000 participants
+- High-quality measurements of MRI
+- Genetics, cognitive measures, etc...
+
+---
+
+layout: middle, center
 
 # Which model should we use?
 
@@ -138,6 +165,10 @@ layout: center, middle
 </div>
 
 <image src="images/rokem2015-fig6.png" height="25%">
+
+--
+
+**Which model should we use to analyze the Human Connectome Project?**
 
 ---
 
@@ -208,25 +239,12 @@ through HTTP calls against the AWS API
 
 ---
 
-### Neuroimaging in Python
+# Interoperability
 
-<div style="position: absolute; left: 100px; top: 120px;">
-<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="10%"></a>
-</div>
-
---
-
-<div style="position: absolute; left: 100px; top: 300px;">
-
-<image src="images/Google_Summer_Of_Code_2015.jpg"  height="40%">
-
-</div>
+- Connect to other data
+- Use a formal, accessible, shared and broadly applicable language for knowledge representation.
 
 ---
-
-layout: true
-
-
 # Neuroimaging in Python
 
 --
@@ -243,10 +261,6 @@ layout: true
 
 ---
 
-# Read more about this [here](http://www.nature.com/articles/sdata201618)
-
----
-
 ### Cloud computing enables reproducibility
 
 <image src="images/AWS.png" height="25%">
@@ -255,9 +269,56 @@ layout: true
 
 ---
 
-# Git/Github for science
+# Jupyter: computational narratives
 
-[K-fold cross-validation on 900 brains](https://github.com/arokem/dki-accuracy-reliability)
+
+<div style="position: absolute; top: 250px; left: 20px;" >
+  <image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400">
+</div>
+
+---
+
+# Git/Github for provenance tracking and collaboration
+
+- Conversations about the science and the software
+- In the context of the software implementation
+-
+
+---
+
+# Re-usable
+
+- Use a clear and accessible data usage license
+- Allow re-use as much as human-subjects considerations allow
+- Use standard data formats, and community standards
+
+---
+
+[The Brain Imaging Data Structure](http://bids.neuroimaging.io/)
+
+<image src="images/bids-example.png"  height="40%">
+
+<div style="position: absolute; left: 50px; top: 650px;" >
+<a href="http://arokem.org/publications/papers/BIDS.pdf">Gorgolewski et al. (2016)</a>
+</div>
+
+---
+
+
+# The FAIR principles
+
+
+- Findable
+
+- Accessible
+
+- Interoperable
+
+- Re-usable
+
+--
+
+# Read more about this [here](http://www.nature.com/articles/sdata201618)
 
 
 ---
