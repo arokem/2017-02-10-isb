@@ -24,7 +24,11 @@ Additional funding from:
 
 --
 
-### [Western BIG DATA HUB](http://westbigdatahub.org/) (NSF)
+### [Western BIG DATA HUB](http://westbigdatahub.org/)
+
+<div style="position: absolute; top: 350px; left: 450px;" >
+<image src="images/nipy-logo.png"> height="10%">
+</div>
 
 ---
 
