@@ -166,10 +166,6 @@ layout: middle, center
 
 <image src="images/rokem2015-fig6.png" height="25%">
 
---
-
-**Which model should we use to analyze the Human Connectome Project?**
-
 ---
 
 ## [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
@@ -237,14 +233,24 @@ standardized communications protocol.
 Data from the Human Connectome Project is available from AWS and accessible
 through HTTP calls against the AWS API
 
+--
+
+The Python `boto3` library makes programmatic access to these data relatively straightforward.
+
+--
+
+Access control and data usage agreements are managed at the level of S3 access control
+
 ---
 
 # Interoperability
 
-- Connect to other data
+- Connect to other data: this is what this workshop is all about!
+
 - Use a formal, accessible, shared and broadly applicable language for knowledge representation.
 
 ---
+
 # Neuroimaging in Python
 
 --
@@ -272,7 +278,7 @@ through HTTP calls against the AWS API
 # Jupyter: computational narratives
 
 
-<div style="position: absolute; top: 250px; left: 20px;" >
+<div style="position: absolute; top: 100px; left: 20px;" >
   <image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400">
 </div>
 
@@ -282,14 +288,19 @@ through HTTP calls against the AWS API
 
 - Conversations about the science and the software
 - In the context of the software implementation
--
 
 ---
 
 # Re-usable
 
 - Use a clear and accessible data usage license
-- Allow re-use as much as human-subjects considerations allow
+
+--
+
+- Allow re-use as much as human subjects considerations allow
+
+--
+
 - Use standard data formats, and community standards
 
 ---
@@ -316,9 +327,8 @@ through HTTP calls against the AWS API
 
 - Re-usable
 
---
 
-# Read more about this [here](http://www.nature.com/articles/sdata201618)
+### With a systems biology context:  [http://www.nature.com/articles/sdata201618](http://www.nature.com/articles/sdata201618)
 
 
 ---
