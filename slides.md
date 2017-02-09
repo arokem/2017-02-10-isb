@@ -291,13 +291,7 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 --
 
-<div style="position: absolute; left: 100px; top: 130px;">
-<a href="http://dipy.org"><image src="images/dipy-logo.png"  height="8%"></a>
-</div>
-
---
-
-<div style="position: absolute; top: 250px; left: 20px;" >
+<div style="position: absolute; top: 150px; left: 20px;" >
   <image src="./images/dipy_example_xval.png" style="background:none; border:none; box-shadow:none;" height="400">
 </div>
 
