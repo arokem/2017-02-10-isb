@@ -278,7 +278,7 @@ Access control and data usage agreements are managed at the level of S3 access c
 # Jupyter: computational narratives
 
 
-<div style="position: absolute; top: 100px; left: 20px;" >
+<div style="position: absolute; top: 150px; left: 20px;" >
   <image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400">
 </div>
 
