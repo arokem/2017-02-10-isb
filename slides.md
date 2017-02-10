@@ -23,13 +23,24 @@ Additional funding from:
  - Washington Research Foundation <br>
  - Bill & Melinda Gates Foundation <br>
 
---
+---
 
-### [Western BIG DATA HUB](http://westbigdatahub.org/)
+# West Big Data Innovation Hub
 
-<div style="position: absolute; top: 530px; left: 350px;" >
+<div style="position: absolute; top: 100px; left: 350px;" >
 <image src="images/NSF-logo.png">
 </div>
+
+http://westbigdatahub.org/
+
+- Accelerating innovation for national priorities
+  - Metro data science
+  - Natural resources and hazards
+  - Data-enabled scientific discovery and learning
+  - Big data technologies
+  - Precision medicine
+- Fostering cross-cutting collaboration
+- Strengthenig our data science community
 
 ---
 
