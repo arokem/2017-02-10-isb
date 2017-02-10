@@ -297,7 +297,7 @@ Access control and data usage agreements are managed at the level of S3 access c
 --
 
 <div style="position: absolute; top: 150px; left: 20px;" >
-  <image src="./images/dipy_example_xval.png" style="background:none; border:none; box-shadow:none;" height="400">
+  <a href="http://nipy.org/dipy/examples_built/kfold_xval.html"><image src="./images/dipy_example_xval.png" style="background:none; border:none; box-shadow:none;" height="400"></a>
 </div>
 
 ---
@@ -347,7 +347,7 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 
 <div style="position: absolute; top: 150px; left: 20px;" >
-  <image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400">
+  <a href="http://jupyter.org/"><image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400"></a>
 </div>
 
 ---
