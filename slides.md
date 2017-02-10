@@ -33,7 +33,7 @@ Additional funding from:
 
 http://westbigdatahub.org/
 
-- Accelerating innovation for national priorities
+- Accelerating innovation for national priorities:
   - Metro data science
   - Natural resources and hazards
   - Data-enabled scientific discovery and learning
