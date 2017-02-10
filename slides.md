@@ -250,9 +250,13 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 # Interoperability
 
-- Connect to other data: this is what this workshop is all about!
+- Connect you data to other data: this is what this workshop is all about!
 
 - Use a formal, accessible, shared and broadly applicable language for knowledge representation.
+
+--
+
+- The human face of interoperability
 
 ---
 
@@ -298,26 +302,10 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 ---
 
-### Cloud computing enables reproducibility
-
-<image src="images/AWS.png" height="25%">
-
-<image src="images/spark-logo-trademark.png" height="200px">
-
----
-
-# Jupyter: computational narratives
-
-
-<div style="position: absolute; top: 150px; left: 20px;" >
-  <image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400">
-</div>
-
----
-
 # Git/Github for provenance tracking and collaboration
 
 - Conversations about the science and the software
+
 - In the context of the software implementation
 
 ---
@@ -332,7 +320,7 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 --
 
-- Use standard data formats, and community standards
+- Use standard data formats, and community standards for data organization
 
 ---
 
@@ -342,6 +330,24 @@ Access control and data usage agreements are managed at the level of S3 access c
 
 <div style="position: absolute; left: 50px; top: 650px;" >
 <a href="http://arokem.org/publications/papers/BIDS.pdf">Gorgolewski et al. (2016)</a>
+</div>
+
+
+---
+
+### Cloud computing enables reproducibility
+
+<image src="images/AWS.png" height="25%">
+
+<image src="images/spark-logo-trademark.png" height="200px">
+
+---
+
+# Jupyter: computational narratives
+
+
+<div style="position: absolute; top: 150px; left: 20px;" >
+  <image src="./images/jupyter-on-github.png" style="background:none; border:none; box-shadow:none;" height="400">
 </div>
 
 ---
