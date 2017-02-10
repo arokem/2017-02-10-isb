@@ -27,7 +27,7 @@ Additional funding from:
 
 # West Big Data Innovation Hub
 
-<div style="position: absolute; top: 100px; left: 350px;" >
+<div style="position: absolute; top: 20px; left: 550px;" >
 <image src="images/NSF-logo.png">
 </div>
 
